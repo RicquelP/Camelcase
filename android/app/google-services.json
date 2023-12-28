@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "168682792411",
+    "project_id": "buoyant-idea-397819",
+    "storage_bucket": "buoyant-idea-397819.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:168682792411:android:96b8668c57d306918a33fe",
+        "android_client_info": {
+          "package_name": "com.example.animal_trivia"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyNXQPH47O1rNiR3GWPdcFnPC1fPv0kcE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
